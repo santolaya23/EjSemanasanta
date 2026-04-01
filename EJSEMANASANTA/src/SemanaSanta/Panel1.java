@@ -29,7 +29,6 @@ public class Panel1 extends JPanel {
 			@Override
 			public void adjustmentValueChanged(AdjustmentEvent e) {
 				// TODO Auto-generated method stub
-				System.out.println(e.getValue());
 				lbl.setText("Esconder Huevos: "+e.getValue());
 			}
 		});

@@ -10,7 +10,7 @@ import javax.swing.JScrollBar;
 import javax.swing.border.EmptyBorder;
 import java.awt.GridLayout;
 
-public class Prin extends JFrame {
+public class PanelDeControl extends JFrame {
 
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
